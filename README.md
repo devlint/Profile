@@ -7,4 +7,4 @@ I'm working with JS + HTML5 + CSS3 (less) technologies.
 
 * Github: https://github.com/devlint/
 * Twitter : https://twitter.com/webdevlint/
-* Blog: http://b.devlint.fr
+* Blog: http://devlint.fr
